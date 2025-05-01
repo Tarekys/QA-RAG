@@ -1,5 +1,7 @@
 # QA-RAG: Document Question-Answering Application
 
+![QA-RAG Demo](assets/image.png)
+
 QA-RAG is a powerful and user-friendly Streamlit application designed for question-answering over documents. It enables users to upload PDF or TXT files, or query pre-loaded documents stored in the `Data` folder, to retrieve precise answers using advanced retrieval-augmented generation (RAG) techniques. The application leverages **LLaMA-Index** for efficient document indexing and **Google Gemini API** for robust natural language processing.
 
 ---
