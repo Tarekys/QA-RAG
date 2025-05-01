@@ -19,7 +19,7 @@ QA-RAG is a powerful and user-friendly Streamlit application designed for questi
 
 Before running the application, ensure you have the following:
 
-- **Python**: Version 3.8 or higher
+- **Python**: Version 3.12 or higher
 - **Google Gemini API Key**: Obtain an API key from [Google Cloud](https://cloud.google.com).
 - **Dependencies**: Install required Python packages listed in `requirements.txt`.
 
@@ -36,7 +36,7 @@ Before running the application, ensure you have the following:
    Open your browser and navigate to `http://localhost:8501`.
 
 3. **Interact with the App**:
-   - **Upload a File**: Use the file uploader to add a PDF or TXT document.
+   - **Upload a File**: Use the file uploader to add TXT document.
    - **Select Pre-loaded Documents**: Choose from documents in the `Data` folder.
    - **Ask Questions**: Enter your question in the text input field to receive answers based on the document content.
 
